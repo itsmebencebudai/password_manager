@@ -1,0 +1,10 @@
+F:\hasznos programokat készítettem ide\account feltoltes egyszerűen\account feltoltes egyszerűen\bin\Debug\account feltoltes egyszerűen.exe.config
+F:\hasznos programokat készítettem ide\account feltoltes egyszerűen\account feltoltes egyszerűen\bin\Debug\account feltoltes egyszerűen.exe
+F:\hasznos programokat készítettem ide\account feltoltes egyszerűen\account feltoltes egyszerűen\bin\Debug\account feltoltes egyszerűen.pdb
+F:\hasznos programokat készítettem ide\account feltoltes egyszerűen\account feltoltes egyszerűen\obj\Debug\account feltoltes egyszerűen.csproj.AssemblyReference.cache
+F:\hasznos programokat készítettem ide\account feltoltes egyszerűen\account feltoltes egyszerűen\obj\Debug\account_feltoltes_egyszerűen.Form1.resources
+F:\hasznos programokat készítettem ide\account feltoltes egyszerűen\account feltoltes egyszerűen\obj\Debug\account_feltoltes_egyszerűen.Properties.Resources.resources
+F:\hasznos programokat készítettem ide\account feltoltes egyszerűen\account feltoltes egyszerűen\obj\Debug\account feltoltes egyszerűen.csproj.GenerateResource.cache
+F:\hasznos programokat készítettem ide\account feltoltes egyszerűen\account feltoltes egyszerűen\obj\Debug\account feltoltes egyszerűen.csproj.CoreCompileInputs.cache
+F:\hasznos programokat készítettem ide\account feltoltes egyszerűen\account feltoltes egyszerűen\obj\Debug\account feltoltes egyszerűen.exe
+F:\hasznos programokat készítettem ide\account feltoltes egyszerűen\account feltoltes egyszerűen\obj\Debug\account feltoltes egyszerűen.pdb
