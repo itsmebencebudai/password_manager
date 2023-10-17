@@ -480,6 +480,7 @@ namespace account_feltoltes_egyszerűen
                 // Handle any exceptions, e.g., if the file doesn't exist or there's an issue with
                 // the path.
                 MessageBox.Show($"Error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
             }
         }
     }
