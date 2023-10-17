@@ -482,9 +482,5 @@ namespace account_feltoltes_egyszerűen
                 MessageBox.Show($"Error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-
-        private void listView_folderContents_ItemActivate(object sender, EventArgs e)
-        {
-        }
     }
 }
